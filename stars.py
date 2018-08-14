@@ -3,4 +3,4 @@ def stars(n):
         print " "*(n-i-1)+"*"*(2*i+1)
 
 
-stars(20)
+stars(5)
